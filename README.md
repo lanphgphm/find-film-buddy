@@ -1,7 +1,6 @@
-# Movie recommendation algorithm 
+# Finding film buddies
 
 Given a movie rating dataset, where an user can rate a movie from 1 to 10 or N/A if they hadn't watched the movie. The goal is to group users and movies simultaneously so that for each user, we can suggest some good movies that this person has not watched.
-
 
 Input: 
 - A matrix, where: 
